@@ -3,8 +3,7 @@
 </div>
 
 # Intro:
-Nice to meet y'all I'm Elias a 17 year old <br>
-I am self taught programmer and a front end developer<br>
+Nice to meet y'all I'm Elias a 17 year old self taught programmer and a front end software developer<br>
 
 I code things at some point
 
