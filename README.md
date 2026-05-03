@@ -1,6 +1,4 @@
-<div align="center">
-<img src="https://cdn.yanderecore.cat/background.gif">
-</div>
+
 
 # Hi there👋
 I'm Elias a self-taught programmer and software engineer with almost 2 years of experience 
