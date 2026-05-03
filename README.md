@@ -8,6 +8,8 @@ got me into coding
 
 My first coding language is Python, which is why I write my code with it since I'm more comfortable with the syntax i also know JavaScript, but I'm not too comfortable with the language yet
 
+All of my repos are private 
+
 
 # What I know:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
