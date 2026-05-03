@@ -2,10 +2,10 @@
 <img src="https://cdn.yanderecore.cat/background.gif">
 </div>
 
-# Intro:
-Nice to meet y'all I'm Elias a 17 year old self taught programmer and a front end software developer<br>
+# Hi there👋
+I'm Elias a self-taught programmer and software engineer with almost 2 years of experience 
 
-I code things at some point
+I focus on web development front-end and I'm currently working on my goal to be a full-stack engineer I also have some interest in cybersecurity and OSINT, as that's what got me into coding
 
 
 # What I know:
