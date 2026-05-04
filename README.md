@@ -1,12 +1,11 @@
 
 
 # Hi there👋
-I'm Elias a self-taught programmer and software engineer with almost 2 years of experience 
+I'm Elias, a self-taught programmer and software engineer with almost two years of experience.
 
-I focus on web development front-end and I'm currently working on my goal to be a full-stack engineer I also have some interest in cybersecurity and OSINT, as that's whata
-got me into coding
+I focus on front-end web development, and right now I'm working toward my goal of becoming a full-stack engineer. I also have an interest in cybersecurity and OSINT, as that's what got me into coding.
 
-My first coding language is Python, which is why I write my code with it since I'm more comfortable with the syntax. I also know JavaScript, but I'm not too comfortable with the language yet. I don't use Lua that much, so I may not be good at it, okay?
+My first programming language was Python, which is why I prefer writing code in it since I'm more comfortable with its syntax. I also know JavaScript, but I'm not very comfortable with it yet. I don't use Lua much, so I'm not very strong with it.
 
 All of my repos are private 
 
