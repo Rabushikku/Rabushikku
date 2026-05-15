@@ -1,7 +1,7 @@
 
 
 # Hi there👋
-I'm Elias, a self-taught programmer and software engineer with almost two years of experience.
+I'm Elias, a self-taught programmer and software developer with almost two years of experience.
 
 I focus on front-end web development, and right now I'm working toward my goal of becoming a full-stack engineer. I also have an interest in cybersecurity and OSINT, as that's what got me into coding.
 
